@@ -5,4 +5,4 @@ Ste 2:It will ask to take input like "Please enter the number of strings you wan
 Step 3: Type Enter
 Step 4:Enter 1st string and press Enter
 Step 5:Repeat the step 4 for other string you will enter and then Enter
-Step 6:After all input it will print the output as shown in screenshot
+Step 6:After all input it will print the output as shown in screenshot in Output.png
